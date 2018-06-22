@@ -1,0 +1,6 @@
+[submodule "HTML"]
+	path = HTML
+	url = https://github.com/jomartinez27/HTML
+[submodule "screwoku"]
+	path = screwoku
+	url = https://github.com/jomartinez27/screwoku
